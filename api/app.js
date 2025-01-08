@@ -10,8 +10,7 @@ const cors = require('cors')
 const cookieParser = require('cookie-parser')
 
 app.use(cors({
-    origin: 'https://alexa.megamindinc.tech', // Allow only your frontend's origin
-    //origin: 'http://localhost:5173',
+    origin: 'http://localhost:5173',
     credentials: true,               // Allow credentials (cookies, authorization headers)
 }));
 app.use(cookieParser())
