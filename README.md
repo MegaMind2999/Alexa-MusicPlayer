@@ -8,7 +8,7 @@ Alexa is a powerful and user-friendly music app built with **React**, **Node.js*
 - **Music Upload**: Users can upload their own music tracks to share with others.
 - **Play Music**: Stream your uploaded tracks or explore music uploaded by other users.
 - **Playlist Management**: Create and manage playlists with your favorite songs.
-- **Responsive Design**: Enjoy Alexa across multiple devices with a responsive UI.
+- **Responsive Design**: Enjoy Alexa across multiple devices with a responsive UI (works better on desktop).
 
 ## Technologies Used
 
