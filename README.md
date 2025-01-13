@@ -2,6 +2,8 @@
 
 Alexa is a powerful and user-friendly music app built with **React**, **Node.js**, and **MongoDB**. It allows users to create accounts, upload music, and enjoy their favorite tracks on any device. Whether you're a music creator or a listener, Alexa makes it easy to manage and share music in a seamless experience.
 
+# live project
+https://alexa.megamindinc.tech/
 ## Features
 
 - **User Authentication**: Sign up, log in, and manage your account with secure authentication.
